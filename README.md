@@ -23,6 +23,13 @@ Core features:
 - [Jobs and Scheduled Publishing](#jobs-and-scheduled-publish)
 - [Website](#website)
 
+
+## Admin Credentials
+
+username: admin
+email: admin@payload-test.com
+password: supersecret
+
 ## Quick Start
 
 To spin up this example locally, follow these steps:
